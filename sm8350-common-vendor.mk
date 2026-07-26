@@ -207,6 +207,7 @@ PRODUCT_PACKAGES += \
     libC2D2 \
     libCB \
     libOpenCL \
+    libVkLayer_q3dtools \
     libadreno_app_profiles \
     libadreno_utils \
     libbluetooth_audio_session_qti \
@@ -222,6 +223,7 @@ PRODUCT_PACKAGES += \
     libdsutils \
     libfastcvdsp_stub \
     libfastcvopt \
+    libgpudataproducer \
     libgsl \
     libidl \
     libkcl \
